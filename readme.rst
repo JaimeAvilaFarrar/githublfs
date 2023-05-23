@@ -19,7 +19,7 @@ Usage
                     content=b"binary file content",
                     message="my commit message")
 
-To authenticate, an access token with repo scope is neede. See: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+To authenticate, an access token with repo scope is needed. See: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 Dependencies
 ------------
